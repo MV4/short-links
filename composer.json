@@ -1,0 +1,21 @@
+{
+    "name": "mv4/short-links",
+    "description": "Short links",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Max Vyskorko",
+            "email": "max.vyskorko@gmail.com",
+            "role": "Owner"
+        },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "mv4\\short-links\\": ""
+        }
+    }
+}
